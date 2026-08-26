@@ -185,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 772.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,15 +199,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "042821f711517e37",
+  "active": "d69cccfd4d79e5c9",
   "lastOpenFiles": [
+    "Untitled.base",
+    "JOURNAL/2026-08-26.md",
     "JOURNAL/2026-08-27.md",
     "STACK/DNS.md",
-    "JOURNAL/2026-08-26.md",
     "STACK/OpenLDAP.md",
     "STACK",
     "README.md.md",
-    "Untitled.base",
     "JOURNAL",
     "CONFLUENCE"
   ]
