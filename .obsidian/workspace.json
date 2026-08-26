@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STACK/OpenLDAP.md",
+                "file": "JOURNAL/2026-08-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STACK/OpenLDAP.md",
+                "file": "JOURNAL/2026-08-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STACK/OpenLDAP.md",
+                "file": "JOURNAL/2026-08-26.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -228,10 +228,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "042821f711517e37",
+  "active": "84288d9a42ffd7f9",
   "lastOpenFiles": [
-    "JOURNAL/2026-08-26.md",
     "STACK/OpenLDAP.md",
+    "JOURNAL/2026-08-26.md",
     "Untitled.base",
     "JOURNAL/2026-08-27.md",
     "STACK/DNS.md",
