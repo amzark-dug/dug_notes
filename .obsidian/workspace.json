@@ -59,8 +59,23 @@
                   "icon": "lucide-file",
                   "title": "OpenLDAP"
                 }
+              },
+              {
+                "id": "43388f460a3806a0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "STACK/TMUX.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "TMUX"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -141,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JOURNAL/2026-08-27.md",
+                "file": "STACK/TMUX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JOURNAL/2026-08-27.md",
+                "file": "STACK/TMUX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -203,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JOURNAL/2026-08-27.md",
+                "file": "STACK/TMUX.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -242,13 +257,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83cb246dd73a4c68",
+  "active": "43388f460a3806a0",
   "lastOpenFiles": [
+    "STACK/OpenLDAP.md",
+    "STACK/TMUX.md",
+    "JOURNAL/2026-08-27.md",
     "IT-7504.md",
     "366951.md",
-    "JOURNAL/2026-08-27.md",
     "JOURNAL/2026-08-26.md",
-    "STACK/OpenLDAP.md",
     "Untitled.base",
     "STACK/DNS.md",
     "STACK",
