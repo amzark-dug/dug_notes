@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JOURNAL/2026-08-27.md",
+                "file": "STACK/TMUX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JOURNAL/2026-08-27.md",
+                "file": "STACK/TMUX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JOURNAL/2026-08-27.md",
+                "file": "STACK/TMUX.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -243,10 +243,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84288d9a42ffd7f9",
+  "active": "fdf6e81e8800b101",
   "lastOpenFiles": [
-    "JOURNAL/2026-08-26.md",
     "JOURNAL/2026-08-27.md",
+    "JOURNAL/2026-08-26.md",
     "STACK/TMUX.md",
     "STACK/OpenLDAP.md",
     "Untitled.md",
