@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STACK/TMUX.md",
+                "file": "JOURNAL/2026-08-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STACK/TMUX.md",
+                "file": "JOURNAL/2026-08-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STACK/TMUX.md",
+                "file": "JOURNAL/2026-08-27.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -257,10 +257,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43388f460a3806a0",
+  "active": "83cb246dd73a4c68",
   "lastOpenFiles": [
-    "STACK/OpenLDAP.md",
     "STACK/TMUX.md",
+    "STACK/OpenLDAP.md",
     "JOURNAL/2026-08-27.md",
     "IT-7504.md",
     "366951.md",
