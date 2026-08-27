@@ -17,12 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "STACK/Ansible.md",
+                    "file": "JOURNAL/2026-08-27.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Ansible"
+                  "title": "2026-08-27"
                 }
               }
             ]
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STACK/Ansible.md",
+                "file": "JOURNAL/2026-08-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STACK/Ansible.md",
+                "file": "JOURNAL/2026-08-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STACK/Ansible.md",
+                "file": "JOURNAL/2026-08-27.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -227,10 +227,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52ae9f04161d1645",
+  "active": "84288d9a42ffd7f9",
   "lastOpenFiles": [
-    "JOURNAL/2026-08-27.md",
     "STACK/Ansible.md",
+    "JOURNAL/2026-08-27.md",
     "JOURNAL/2026-08-26.md",
     "STACK/OpenLDAP.md",
     "Pasted image 20260827102429.png",
