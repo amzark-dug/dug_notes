@@ -1,6 +1,8 @@
-copy & paste to path
+Copy & paste to path
 ```
-# Copy 
-sudo cp COPIED_FILE_PATH FOLDER_TO_PATH
+sudo cp COPIED_FILE_PATH PASTED_FOLDER_PATH
 ```
-
+Take ownership of said file
+```
+sudo chown ID_NAME: PASTED_FILE_PATH
+```
