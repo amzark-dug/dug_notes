@@ -32,12 +32,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "CONFLUENCE/File Yanking.md",
+                    "file": "JOURNAL/2026-09-02.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "File Yanking"
+                  "title": "2026-09-02"
                 }
               }
             ],
@@ -262,10 +262,10 @@
   },
   "active": "837f92728097537a",
   "lastOpenFiles": [
-    "2026-09-02.md",
-    "CONFLUENCE/File Yanking.md",
-    "STACK/Important Sites.md",
     "JOURNAL/2026-09-01.md",
+    "CONFLUENCE/File Yanking.md",
+    "JOURNAL/2026-09-02.md",
+    "STACK/Important Sites.md",
     "JOURNAL/2026-08-27.md",
     "STACK/TMUX.md",
     "STACK/OpenLDAP.md",
