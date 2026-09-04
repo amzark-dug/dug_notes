@@ -82,12 +82,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "TODO.md",
+                    "file": "JOURNAL/2026-09-02.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "TODO"
+                  "title": "2026-09-02"
                 }
               }
             ],
@@ -156,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "151c3b53f99bb9ea",
@@ -274,14 +273,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "837f92728097537a",
+  "active": "e8f86b520805eee9",
   "lastOpenFiles": [
+    "JOURNAL/2026-09-01.md",
     "TODO.md",
     "JOURNAL/2026-09-04.md",
     "STACK/Important Sites.md",
     "STACK/TMUX.md",
     "JOURNAL/2026-09-02.md",
-    "JOURNAL/2026-09-01.md",
     "CONFLUENCE/File Yanking.md",
     "JOURNAL/2026-08-27.md",
     "STACK/OpenLDAP.md",
