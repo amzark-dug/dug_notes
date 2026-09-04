@@ -10,7 +10,7 @@
           {
             "id": "e913a591a32a7029",
             "type": "tabs",
-            "dimension": 66.8695652173913,
+            "dimension": 62.52173913043478,
             "children": [
               {
                 "id": "84288d9a42ffd7f9",
@@ -46,7 +46,7 @@
           {
             "id": "0463dd8f25deeb0a",
             "type": "tabs",
-            "dimension": 33.130434782608695,
+            "dimension": 37.47826086956522,
             "children": [
               {
                 "id": "ec345afe9dfcf839",
@@ -68,20 +68,6 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "STACK/Important Sites.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Important Sites"
-                }
-              },
-              {
-                "id": "e8f86b520805eee9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
                     "file": "TODO.md",
                     "mode": "source",
                     "source": false
@@ -91,7 +77,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -274,13 +260,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e8f86b520805eee9",
+  "active": "fdf6e81e8800b101",
   "lastOpenFiles": [
+    "STACK/Important Sites.md",
+    "JOURNAL/2026-09-03.md",
+    "TODO.md",
     "JOURNAL/2026-09-04.md",
     "JOURNAL/2026-09-02.md",
     "JOURNAL/2026-09-01.md",
-    "TODO.md",
-    "STACK/Important Sites.md",
     "STACK/TMUX.md",
     "CONFLUENCE/File Yanking.md",
     "JOURNAL/2026-08-27.md",
