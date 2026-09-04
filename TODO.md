@@ -1,2 +1,3 @@
 [[2026-09-04]]
-- [ ] CLOSE #367143 
+- [ ] CLOSE, EOD: [#367143](https://downunder.zendesk.com/agent/tickets/367143)
+- [ ] 
